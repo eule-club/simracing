@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Porsche SimRace GrandPrix – Ticketverkauf</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #111; color: #fff; margin: 0; padding: 0; }
+    header { background: #1eff00; padding: 2rem; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5rem; color: #000; }
+    section { padding: 2rem; max-width: 900px; margin: auto; }
+    .ticket { background: #222; border: 1px solid #555; border-radius: 10px; margin-bottom: 2rem; padding: 1.5rem; }
+    .ticket h2 { color: #ff0000; }
+    .price { font-size: 1.8rem; color: #1eff00; margin-bottom: 1rem; }
+    .button { background: #f7b500; color: #000; padding: 0.75rem 1.5rem; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; }
+    .button:hover { background: #1eff00; color: #000; }
+    footer { text-align: center; padding: 2rem; background: #1a1a1a; color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Porsche SimRace GrandPrix</h1>
+    <p>Porsche-Arena Stuttgart | Datum: [Einfügen]</p>
+  </header>
+
+  <section>
+    <div class="ticket">
+      <h2>🥇 VIP EXPERIENCE</h2>
+      <div class="price">997 €</div>
+      <ul>
+        <li>VIP-Lounge Zugang & Catering</li>
+        <li>Exklusive SimRacing Session & Coaching</li>
+        <li>Meet & Greet mit Rennlegenden</li>
+        <li>Porsche Welcome Package</li>
+      </ul>
+      <button class="button">Jetzt VIP-Ticket sichern</button>
+    </div>
+
+    <div class="ticket">
+      <h2>🥈 RACER PASS</h2>
+      <div class="price">297 €</div>
+      <ul>
+        <li>Turnierteilnahme & Training</li>
+        <li>Racer-Zone Zugang</li>
+        <li>Limitierte Porsche SimRace Fanwear</li>
+      </ul>
+      <button class="button">Racer Pass kaufen</button>
+    </div>
+
+    <div class="ticket">
+      <h2>🥉 FAN PASS</h2>
+      <div class="price">49 €</div>
+      <ul>
+        <li>Zugang zur Zuschauertribüne</li>
+        <li>Live-Kommentierung & LED-Walls</li>
+        <li>Porsche Ausstellung & Gewinnspiel</li>
+      </ul>
+      <button class="button">Fan Pass buchen</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 EULE Club – Alle Rechte vorbehalten | Impressum | Datenschutz</p>
+  </footer>
+</body>
+</html>
