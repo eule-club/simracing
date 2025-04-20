@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Porsche SimRace GrandPrix – Ticketverkauf</title>
+  <title>EULE SimRace GrandPrix – Ticketverkauf</title>
   <style>
     body { font-family: Arial, sans-serif; background: #111; color: #fff; margin: 0; padding: 0; }
-    header { background: #1eff00; padding: 2rem; text-align: center; }
-    header h1 { margin: 0; font-size: 2.5rem; color: #000; }
+    header { background: #ff1e00; padding: 2rem; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5rem; color: #fff; }
     section { padding: 2rem; max-width: 900px; margin: auto; }
     .ticket { background: #222; border: 1px solid #555; border-radius: 10px; margin-bottom: 2rem; padding: 1.5rem; }
     .ticket h2 { color: #ff0000; }
@@ -19,48 +19,53 @@
 </head>
 <body>
   <header>
-    <h1>Porsche SimRace GrandPrix</h1>
-    <p>Porsche-Arena Stuttgart | Datum: [Einfügen]</p>
+    <h1>EULE SimRace GrandPrix</h1>
+    <p>Porsche-Arena Stuttgart | Datum: 5. Juli 2025</p>
   </header>
 
   <section>
     <div class="ticket">
-      <h2>🥇 VIP EXPERIENCE</h2>
-      <div class="price">997 €</div>
+      <h2>🥇 VIP EXPERIENCE – 997 €</h2>
+      <div class="price">Für wahre Connaisseurs & Porsche-Liebhaber</div>
       <ul>
-        <li>VIP-Lounge Zugang & Catering</li>
-        <li>Exklusive SimRacing Session & Coaching</li>
-        <li>Meet & Greet mit Rennlegenden</li>
+        <li>Zugang zur VIP-Lounge mit Catering</li>
+        <li>Exklusive SimRacing-Session & Coaching</li>
+        <li>Meet & Greet mit Rennlegenden & EULE Partnern</li>
         <li>Porsche Welcome Package</li>
+        <li>Priority Seating – Pole Position Garantie</li>
+        <li>Networking mit Business & Tech-Leadern</li>
       </ul>
-      <button class="button">Jetzt VIP-Ticket sichern</button>
+      <a href="https://buy.stripe.com/9AQbLRfcFftPeIg6pa" class="button">Jetzt VIP-Ticket sichern</a>
     </div>
 
     <div class="ticket">
-      <h2>🥈 RACER PASS</h2>
-      <div class="price">297 €</div>
+      <h2>🥈 RACER PASS – 397 €</h2>
+      <div class="price">Für ambitionierte SimRacer & Motorsport-Fans</div>
       <ul>
-        <li>Turnierteilnahme & Training</li>
-        <li>Racer-Zone Zugang</li>
-        <li>Limitierte Porsche SimRace Fanwear</li>
+        <li>Teilnahme am offiziellen SimRace Turnier</li>
+        <li>Zugang zur Racer-Zone & Tribüne</li>
+        <li>Fahrerbriefing & Training inklusive</li>
+        <li>Teilnahmeurkunde + Highlight-Videos</li>
+        <li>Limited Edition Porsche SimRace Shirt</li>
       </ul>
-      <button class="button">Racer Pass kaufen</button>
+      <a href="https://buy.stripe.com/dR6dTZ2pT2H357GaFp" class="button">Racer Pass kaufen</a>
     </div>
 
     <div class="ticket">
-      <h2>🥉 FAN PASS</h2>
-      <div class="price">49 €</div>
+      <h2>🥉 FAN PASS – 49 €</h2>
+      <div class="price">Für alle, die Racing live erleben wollen</div>
       <ul>
-        <li>Zugang zur Zuschauertribüne</li>
+        <li>Zugang zur Zuschauertribüne & Fanzone</li>
         <li>Live-Kommentierung & LED-Walls</li>
-        <li>Porsche Ausstellung & Gewinnspiel</li>
+        <li>Zugang zur Porsche Ausstellung</li>
+        <li>Teilnahme am Gewinnspiel</li>
       </ul>
-      <button class="button">Fan Pass buchen</button>
+      <a href="https://buy.stripe.com/8wM9DJ6G9dlHcA800K" class="button">Fan Pass buchen</a>
     </div>
   </section>
 
   <footer>
-    <p>© 2025 EULE Club – Alle Rechte vorbehalten | Impressum | Datenschutz</p>
+    <p>© 2025 EULE Club – Alle Rechte vorbehalten | <a href="/impressum" style="color: #aaa;">Impressum</a> | <a href="/datenschutz" style="color: #aaa;">Datenschutz</a></p>
   </footer>
 </body>
 </html>
