@@ -1,46 +1,100 @@
-# Impressum
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impressum – EULE Sport</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #ff1e00;
+      padding: 2rem;
+      text-align: center;
+      color: white;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      color: #ff1e00;
+      font-size: 1.8rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #333;
+      color: white;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
 
-**Angaben gemäß § 5 TMG:**
+<header>
+  <h1>Impressum – EULE Sport</h1>
+</header>
 
-**Unternehmen:**  
-EULE Club  
-Inhaber: Hatice Tavli  
-Adresse: [Deine Straße und Hausnummer]  
-Postleitzahl, Stadt  
-Land  
+<section>
+  <h2>Angaben gemäß § 5 TMG</h2>
+  <p><strong>Unternehmen:</strong><br>
+  EULE Club<br>
+  Inhaber: Hatice Tavli<br>
+  Adresse: [Deine Straße und Hausnummer]<br>
+  Postleitzahl, Stadt<br>
+  Land</p>
 
-**Kontakt:**  
-Telefon: [Deine Telefonnummer]  
-E-Mail: hallo@eulesport.de  
-Webseite: www.eulesport.de
+  <h2>Kontakt</h2>
+  <p><strong>Telefon:</strong> [Deine Telefonnummer]<br>
+  <strong>E-Mail:</strong> <a href="mailto:hallo@eulesport.de">hallo@eulesport.de</a><br>
+  <strong>Webseite:</strong> <a href="https://www.eulesport.de" target="_blank">www.eulesport.de</a></p>
 
-**Vertreten durch:**  
-Hatice Tavli, Inhaberin  
+  <h2>Vertreten durch</h2>
+  <p>Hatice Tavli, Inhaberin</p>
 
-**Umsatzsteuer-ID:**  
-DE815726755
+  <h2>Umsatzsteuer-ID</h2>
+  <p>DE815726755</p>
 
-**Wirtschafts-Identifikationsnummer:**  
-[Deine Wirtschafts-Identifikationsnummer, falls vorhanden]
+  <h2>Wirtschafts-Identifikationsnummer</h2>
+  <p>[Deine Wirtschafts-Identifikationsnummer, falls vorhanden]</p>
 
-**Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV:**  
-Hatice Tavli  
-[Adresse wie oben]
+  <h2>Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV</h2>
+  <p>Hatice Tavli<br>
+  [Adresse wie oben]</p>
 
----
+  <h2>Haftungsausschluss</h2>
+  
+  <h3>Haftung für Inhalte</h3>
+  <p>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
 
-### Haftungsausschluss
+  <h3>Haftung für Links</h3>
+  <p>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.</p>
 
-**Haftung für Inhalte**  
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+  <h3>Urheberrecht</h3>
+  <p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
 
-**Haftung für Links**  
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+  <h2>Quelle</h2>
+  <p>Erstellt mit dem Impressum-Generator von <a href="https://www.e-recht24.de" target="_blank">e-recht24.de</a></p>
+</section>
 
-**Urheberrecht**  
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+<footer>
+  <p>&copy; 2025 EULE Sport – Alle Rechte vorbehalten</p>
+</footer>
 
----
-
-**Quelle:**  
-Erstellt mit dem Impressum-Generator von [e-recht24.de](https://www.e-recht24.de)
+</body>
+</html>
