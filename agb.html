@@ -36,11 +36,50 @@
       font-size: 1.8rem;
     }
     footer {
-      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       padding: 1rem;
       background: #333;
       color: white;
       font-size: 0.9rem;
+    }
+    footer a {
+      color: white;
+      text-decoration: none;
+      margin-left: 10px;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      section {
+        padding: 1.5rem;
+      }
+      footer {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      footer div {
+        margin-top: 1rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      header h1 {
+        font-size: 1.6rem;
+      }
+      section {
+        padding: 1rem;
+      }
+      footer {
+        font-size: 0.8rem;
+      }
     }
   </style>
 </head>
@@ -51,53 +90,67 @@
 </header>
 
 <section>
-  <h2>1. Geltungsbereich</h2>
+  <h2>§ 1 Geltungsbereich</h2>
   <p>Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge, die über die Webseite von EULE Sport abgeschlossen werden. Der Käufer erklärt sich mit der Abgabe seiner Bestellung mit diesen AGB einverstanden.</p>
 
-  <h2>2. Vertragspartner</h2>
+  <h2>§ 2 Vertragspartner</h2>
   <p>Der Kaufvertrag kommt zustande mit:</p>
   <p><strong>EULE Sport</strong><br>
   E-Mail: <a href="mailto:hallo@eulesport.de">hallo@eulesport.de</a><br>
   Website: <a href="https://www.eulesport.de" target="_blank">www.eulesport.de</a></p>
 
-  <h2>3. Vertragsgegenstand</h2>
+  <h2>§ 3 Vertragsgegenstand</h2>
   <p>Gegenstand des Vertrages ist der Erwerb von Tickets für Veranstaltungen, die von EULE Sport angeboten werden, insbesondere für die Veranstaltung <strong>EULE SimRace GrandPrix</strong>.</p>
 
-  <h2>4. Vertragsschluss</h2>
+  <h2>§ 4 Vertragsschluss</h2>
   <p>Der Vertrag kommt zustande, wenn der Käufer die Bestellung über die Webseite abgeschlossen hat und die Bestellbestätigung per E-Mail von uns erhalten hat. Der Vertrag wird durch die elektronische Bestätigung der Bestellung durch EULE Sport als verbindlich angesehen.</p>
 
-  <h2>5. Preise und Zahlung</h2>
+  <h2>§ 5 Preise und Zahlung</h2>
   <p>Alle angegebenen Preise verstehen sich inklusive der gesetzlichen Mehrwertsteuer. Die Zahlung erfolgt über die auf der Webseite angegebenen Zahlungsmethoden. Der Käufer verpflichtet sich, den Gesamtbetrag unmittelbar nach Abschluss des Bestellvorgangs zu zahlen.</p>
 
-  <h2>6. Lieferung der Tickets</h2>
-  <p>Nach erfolgter Zahlung erhält der Käufer ein E-Ticket, das er entweder ausdrucken oder digital auf einem mobilen Endgerät vorzeigen kann. Die Tickets sind nur für die angegebene Veranstaltung und den entsprechenden Tag gültig.</p>
+  <h2>§ 6 Lieferung der Tickets</h2>
+  <p>Nach erfolgter Zahlung erhält der Käufer ein digitales E-Ticket per E-Mail. Das Ticket ist ein digitales Dokument, das entweder auf einem mobilen Endgerät vorgezeigt oder ausgedruckt werden kann. Es handelt sich um eine einmalige digitale Investition und ist ausschließlich für die angegebene Veranstaltung gültig. Eine Übertragung oder ein Umtausch der Tickets ist ausgeschlossen.</p>
 
-  <h2>7. Stornierung und Rückerstattung</h2>
+  <h2>§ 7 Stornierung und Rückerstattung</h2>
   <p>Tickets sind grundsätzlich vom Umtausch und der Rückgabe ausgeschlossen, es sei denn, die Veranstaltung wird vom Veranstalter abgesagt. Sollte eine Veranstaltung aus Gründen, die außerhalb der Verantwortung des Käufers liegen, abgesagt oder verschoben werden, hat der Käufer Anspruch auf eine vollständige Rückerstattung des Ticketpreises.</p>
 
-  <h2>8. Absage und Änderungen der Veranstaltung</h2>
+  <h2>§ 8 Absage und Änderungen der Veranstaltung</h2>
   <p>EULE Sport behält sich das Recht vor, Veranstaltungen bei Vorliegen unvorhersehbarer Umstände oder höherer Gewalt abzusagen oder zu verschieben. In einem solchen Fall wird der Käufer umgehend informiert. Sollte eine Veranstaltung abgesagt werden, wird der Ticketpreis in voller Höhe erstattet.</p>
 
-  <h2>9. Haftung</h2>
+  <h2>§ 9 Haftung</h2>
   <p>Die Haftung von EULE Sport für Schäden, die durch die Teilnahme an der Veranstaltung entstehen, ist auf Vorsatz und grobe Fahrlässigkeit beschränkt. EULE Sport übernimmt keine Haftung für Schäden, die durch den Käufer oder Dritte verursacht werden.</p>
 
-  <h2>10. Datenschutz</h2>
+  <h2>§ 10 Datenschutz</h2>
   <p>EULE Sport erhebt und verarbeitet personenbezogene Daten des Käufers gemäß den geltenden Datenschutzbestimmungen, insbesondere der Datenschutz-Grundverordnung (DSGVO). Weitere Informationen hierzu finden Sie in unserer <a href="https://www.eulesport.de/datenschutz" target="_blank">Datenschutzerklärung</a>.</p>
 
-  <h2>11. Teilnahmebedingungen</h2>
+  <h2>§ 11 Teilnahmebedingungen</h2>
   <p>Der Käufer verpflichtet sich, während der Veranstaltung alle geltenden Vorschriften und Hausordnungen zu beachten. EULE Sport behält sich das Recht vor, Teilnehmer, die gegen diese Regeln verstoßen, von der Veranstaltung auszuschließen.</p>
 
-  <h2>12. Schlussbestimmungen</h2>
+  <h2>§ 12 Verlängerung</h2>
+  <p>Die Gültigkeit des Tickets kann durch den Veranstalter verlängert werden, sofern die Veranstaltung zu einem späteren Zeitpunkt fortgesetzt oder erneut angeboten wird. Eine Verlängerung ist nur durch ausdrückliche Zustimmung von EULE Sport möglich.</p>
+
+  <h2>§ 13 Platzsicherungsgebühr</h2>
+  <p>Für bestimmte Veranstaltungen kann eine Platzsicherungsgebühr erhoben werden. Diese Gebühr ist nicht erstattungsfähig und wird fällig, sobald der Kauf abgeschlossen wurde. Die Gebühr wird verwendet, um den Platz des Käufers für die Veranstaltung zu reservieren und abzusichern.</p>
+
+  <h2>§ 14 Pausierungsrechte</h2>
+  <p>Der Veranstalter behält sich das Recht vor, eine Veranstaltung zu pausieren, wenn dies aus dringenden oder unvorhersehbaren Gründen erforderlich ist. In diesem Fall wird der Käufer rechtzeitig informiert, und die Veranstaltung wird zu einem späteren Zeitpunkt fortgesetzt. Sollte der Käufer mit der Pausierung nicht einverstanden sein, kann er das Ticket gemäß den Rückerstattungsrichtlinien zurückgeben.</p>
+
+  <h2>§ 15 Schlussbestimmungen</h2>
   <p>Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist der Sitz von EULE Sport, sofern der Käufer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.</p>
 
   <p>Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.</p>
 
-  <h2>13. Weitere Informationen</h2>
+  <h2>§ 16 Weitere Informationen</h2>
   <p>Für den Ticketkauf und weitere Informationen zur Veranstaltung besuchen Sie bitte unsere <a href="https://www.eulesport.de" target="_blank">Ticket-Seite</a>.</p>
 </section>
 
 <footer>
   <p>&copy; 2025 EULE Sport – Alle Rechte vorbehalten</p>
+  <div>
+    <a href="https://www.eulesport.de/impressum" target="_blank">Impressum</a> |
+    <a href="https://www.eulesport.de/datenschutz" target="_blank">Datenschutz</a> |
+    <a href="https://www.eulesport.de/agb" target="_blank">AGB</a>
+  </div>
 </footer>
 
 </body>
