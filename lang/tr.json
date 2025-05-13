@@ -1,0 +1,42 @@
+{
+  "header_title": "EULE SimRace GrandPrix",
+  "header_date": "Rot-Weiss Essen Stadyumu | Tarih: 24 Mayıs 2025 (Sanal Etkinlik)",
+  "ticket_vip_title": "🥇 EULE VIP DENEYİMİ – 997 €",
+  "ticket_vip_description": "Vizyonerler & Yarış Tutkunları için SimRacing Hospitality (Sanal Katılım)",
+  "ticket_vip_features": [
+    "Sanal EULE VIP Lounge’a özel erişim",
+    "Dijital içecekler, bölgesel ikramlar ve chill-out alanı",
+    "Sanal SimRacing takım alanına erişim: canlı kokpit görüntüleri & yarış sahneleri",
+    "Stratejik analiz ve veri görselleri içeren özel sanal izleme alanı",
+    "Profesyonel simracer'lar, yayıncılar ve EULE ortaklarıyla tanışma",
+    "Premium EULE ürünlerinden oluşan karşılama paketi"
+  ],
+  "buy_vip": "VIP Bilet Al",
+
+  "ticket_racer_title": "🥈 YARIŞÇI PASO – 397 €",
+  "ticket_racer_description": "Hırslı SimRacer'lar ve motorsporu severler için (Sanal Katılım)",
+  "ticket_racer_features": [
+    "12 takımlı resmi sanal SimRace turnuvasına katılım",
+    "Sanal yarışçı alanı ve seyirci tribününe erişim",
+    "Sanal sürücü toplantısı ve antrenman dahil",
+    "Katılım sertifikası + öne çıkan videolar",
+    "Premium ürünlerden oluşan EULE karşılama paketi"
+  ],
+  "buy_racer": "Yarışçı Bileti Al",
+
+  "ticket_fan_title": "🥉 TARAFTAR PASO – 49 €",
+  "ticket_fan_description": "Sanal yarış heyecanını yaşamak isteyen herkes için",
+  "ticket_fan_features": [
+    "Sanal seyirci tribünü ve taraftar alanına erişim",
+    "Canlı sanal yorumlar ve LED ekranlar",
+    "Sanal çekilişe katılım"
+  ],
+  "buy_fan": "Taraftar Bileti Al",
+
+  "footer_text": "© 2025 EULE Kulübü – Tüm hakları saklıdır",
+  "footer_links": {
+    "impressum": "Yasal Uyarı",
+    "datenschutz": "Gizlilik Politikası",
+    "agb": "Şartlar ve Koşullar"
+  }
+}
