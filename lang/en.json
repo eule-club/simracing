@@ -1,0 +1,42 @@
+{
+  "header_title": "EULE SimRace GrandPrix",
+  "header_date": "Rot-Weiss Essen Stadium | Date: May 24, 2025 (Virtual Event)",
+  "ticket_vip_title": "🥇 EULE VIP EXPERIENCE – €997",
+  "ticket_vip_description": "SimRacing Hospitality for Visionaries & Racing Connoisseurs (Virtual Participation)",
+  "ticket_vip_features": [
+    "Exclusive access to the virtual EULE VIP Lounge",
+    "Premium digital drinks, regional catering & chill-out zone",
+    "Access to the virtual SimRacing team area with live cockpit views & racing battles",
+    "Private virtual viewing area with strategic insights & data overlays",
+    "Meet & Greet with pro simracers, streamers & EULE partners",
+    "EULE Welcome Package with premium merchandise"
+  ],
+  "buy_vip": "Get VIP Ticket",
+
+  "ticket_racer_title": "🥈 RACER PASS – €397",
+  "ticket_racer_description": "For ambitious SimRacers & motorsport fans (Virtual Participation)",
+  "ticket_racer_features": [
+    "Participation in the official virtual SimRace tournament with 12 teams",
+    "Access to the virtual racer zone & spectator stands",
+    "Includes virtual driver briefing & training",
+    "Certificate of participation + highlight videos",
+    "EULE Welcome Package with premium merchandise"
+  ],
+  "buy_racer": "Buy Racer Pass",
+
+  "ticket_fan_title": "🥉 FAN PASS – €49",
+  "ticket_fan_description": "For everyone who wants to experience virtual racing live",
+  "ticket_fan_features": [
+    "Access to the virtual spectator stand & fan zone",
+    "Virtual live commentary & LED walls",
+    "Participation in virtual sweepstakes"
+  ],
+  "buy_fan": "Book Fan Pass",
+
+  "footer_text": "© 2025 EULE Club – All rights reserved",
+  "footer_links": {
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy",
+    "agb": "Terms & Conditions"
+  }
+}
